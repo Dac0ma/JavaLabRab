@@ -3,6 +3,7 @@ public class Main {
     static second second = new second();
     static third third = new third();
     public static void main(String[] args) {
+        System.out.println("Факториал: ");
         System.out.println("Первое задание:");
         first.output();
         System.out.println("Второе задание:");
